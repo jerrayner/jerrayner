@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jerrayne Rodrigues! 👋
 
 ⚡ Sou uma estudante de Analise e Desenvolvimento de Sistemas apaixonada por tecnologia.<br>
-👩‍💻 No momento estou estudando JS, PHP e NodeJs.<br>
+👩‍💻 No momento estou aprimorando meus conhecimentos em HTML&CSS, e estudando JS, PHP e NodeJs.<br>
 🧚‍♀️ Ela/Dela.<br>
 <hr>
 <div align="center">
