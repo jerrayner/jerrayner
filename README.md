@@ -20,10 +20,10 @@
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d7c8f2d17ea0a40aa822b215be2c31df.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br />
 </div>
 <hr>
-  <div> 
+  <div align="center"> 
   
   <a href="https://instagram.com/jerrayner" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jerrayner@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jerrayne-rodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  ![Snake animation](https://github.com/jerrayner/jerrayner/blob/output/github-contribution-grid-snake.svg)
+
