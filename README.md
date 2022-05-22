@@ -1,8 +1,8 @@
-### Olá! Eu sou a Jerrayne Rodrigues! 👋
+### Hey, I'm Jerrayne! 👋
 
-⚡ Sou uma estudante de Analise e Desenvolvimento de Sistemas apaixonada por tecnologia.<br>
-👩‍💻 No momento estou aprimorando meus conhecimentos em HTML&CSS, e estudando JS, PHP e NodeJs.<br>
-🧚‍♀️ Ela/Dela.<br>
+<div align="center">⚡ I'm a mother of a beautiful little girl, a systems analysis and development student, and I'm passionate about technology.<br>
+👩‍💻 At the moment I am improving my knowledge in HTML&CSS, and studying JS, PHP and NodeJs.<br>
+🧚‍♀️ She/Her.<br></div>
 <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/jerrayne-rodrigues/">
