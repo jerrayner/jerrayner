@@ -1,7 +1,7 @@
 ### Hey, I'm Jerrayne! 👋
 
 <div align="center">⚡ I'm a mother of a beautiful little girl, a systems analysis and development student, and I'm passionate about technology.<br>
-👩‍💻 At the moment I am improving my knowledge in HTML&CSS, and studying JS, PHP and NodeJs.<br>
+👩‍💻 At the moment I am improving my knowledge in HTML&CSS and JavaScript, and studying Python and Database.<br>
 🧚‍♀️ She/Her.<br></div>
 <hr>
 <div align="center">
@@ -16,7 +16,7 @@
   <img align="center" alt="Je-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Je-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Je-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Je-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Je-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d7c8f2d17ea0a40aa822b215be2c31df.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br />
 </div>
 <hr>
