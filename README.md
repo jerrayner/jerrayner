@@ -1,7 +1,7 @@
 ### Hey, I'm Jerrayne! 👋
 
-<div align="center">⚡ I'm a mother of a beautiful little girl, a systems analysis and development student, and I'm passionate about technology.<br>
-👩‍💻 At the moment I am improving my knowledge in HTML&CSS and JavaScript, and studying Python and Database.<br>
+<div align="center">⚡ Passionate about everything that involves technology and technological innovations, I had my first contact with computing when I was 6 years old, where I spent hours playing and learning on the computers of the school where my mother worked, since then I learned typing by myself, played with HTML and CSS, photoshop and its tools, and I had my first contact with programming in 2017/2018, when I really fell in love with the area, working with data in Excel and looking for better ways to manipulate them.
+For various personal reasons, I did not complete my studies, I did not delve into the area at that time, for a long time I felt lost, without motivation. Becoming a mother in 2021 in the middle of a pandemic changed my way of looking at the world, and that's when I found my way again, returned to studies and to the area that I've always had interest and love.<br><br>
 🧚‍♀️ She/Her.<br></div>
 <hr>
 <div align="center">
