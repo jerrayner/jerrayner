@@ -6,8 +6,6 @@ For various personal reasons, I did not complete my studies, I did not delve int
 <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/jerrayne-rodrigues/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerrayner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrayner&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
