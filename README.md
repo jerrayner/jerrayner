@@ -1,7 +1,7 @@
 ## Oie! Sou a Jerrayne! 👋
 
 📚 Estudante de Analise e Desenvolvimento de Sistemas.<br>
-👩‍💻 Atuando como engenheira de dados trainee.<br>
+👩‍💻 Atuando como engenheira especialista de dados.<br>
 🙌 Apaixonada por analise de dados e business intelligence.<br>
 
 <div align="center">
